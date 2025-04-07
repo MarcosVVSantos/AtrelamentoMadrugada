@@ -5,9 +5,6 @@
 2. **Atribui motos aos guinchos** com base na proximidade, considerando a capacidade máxima de cada guincho.
 3. **Cria um serviço de recolhimento** para cada moto, quando ela é atribuída a um guincho.
 
-### Melhorias que vamos fazer:
-- **Otimização da alocação de motos** para garantir que os guinchos mais próximos sejam alocados antes dos outros, sem sobrecarregar a capacidade do guincho.
-- **Tratamento de erros melhorado**: Vamos adicionar verificações para garantir que a comunicação com a API esteja funcionando corretamente, e também melhorar a clareza no código.
 
 ### Passos para rodar o script:
 
